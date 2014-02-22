@@ -1,4 +1,4 @@
-CodingStandard
+Coding Standard
 ==============
 
 Coding Stardard
