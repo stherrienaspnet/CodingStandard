@@ -5,6 +5,10 @@ Coding Stardard
 
 **Angular.js**
 
-```Read QueryString Parameter```: $filter('queryStringFilter')("queryStringKey"), return null if the key is not found. 
+```Strict Mode```: This mode could save your hours of debugging!
 
-Code sample: var storeCode = $filter('queryStringFilter')("StoreCode");
+>Usage: "use strict";
+
+```Retrieve QueryString Parameter```: $filter('queryStringFilter')("queryStringKey"), return null if the key is not found. 
+
+>Usage: var storeCode = $filter('queryStringFilter')("StoreCode");
